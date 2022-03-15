@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Sa'ad a MERN stack developer.
 
 <!--
 **Saad-001/Saad-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
