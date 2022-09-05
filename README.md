@@ -35,6 +35,18 @@
         <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="CSS"
                         src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
         </a>
+        <!-- SCSS  -->
+        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="SCSS"
+                        src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
+        </a>
+        <!-- Bootstrap  -->
+        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Botstrap"
+                        src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flate-square&logo=bootstrap&logoColor=white">
+        </a>
+        <!-- Tailwind  -->
+        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Tailwind"
+                        src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flate-square&logo=tailwind-css&logoColor=white">
+        </a>
         <!-- JavaScript -->
         <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
@@ -42,7 +54,7 @@
         <!-- Typescript -->
         <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Typescript"
                         src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
-        </a> 
+        </a>
         <!-- c -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C"
                         src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
@@ -51,6 +63,19 @@
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
                         src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
         </a>
+        <!-- REACT  -->
+        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="React"
+                        src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+        </a>
+        <!-- Redux  -->
+        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Redux"
+                        src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white">
+        </a>
+        <!-- Next js  -->
+        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="CSS"
+                        src="https://img.shields.io/badge/Next-black?style=flate-square&logo=next.js&logoColor=white">
+        </a>
+
 </p>
 
 <!-- Details Section-->
