@@ -116,7 +116,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="My GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=saad-001&show_icons=true&count_private=true&theme=blue-green" />
+                src="https://github-readme-stats.vercel.app/api?username=saad-001&show_icons=true&count_private=true&theme=nightowl " />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
