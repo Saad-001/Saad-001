@@ -51,18 +51,6 @@
         <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Material UI"
                         src="https://img.shields.io/badge/Material--UI-0081CB?style=flate-square&logo=material-ui&logoColor=white">
         </a>
-        <!-- Node Js -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Node Js"
-                        src="https://img.shields.io/badge/node.js-6DA55F?style=flate-square&logo=node.js&logoColor=white">
-        </a>
-        <!-- Express Js -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Express Js"
-                        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flate-square&logo=express&logoColor=%2361DAFB">
-        </a>
-        <!-- MongoDB  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="MongoDB"
-                        src="https://img.shields.io/badge/MongoDB-4EA94B?style=flate-square&logo=mongodb&logoColor=white">
-        </a>
         <!-- JavaScript -->
         <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
@@ -95,6 +83,18 @@
         <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Next Js"
                         src="https://img.shields.io/badge/Next-black?style=flate-square&logo=next.js&logoColor=white">
         </a>
+                <!-- Node Js -->
+        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Node Js"
+                        src="https://img.shields.io/badge/node.js-6DA55F?style=flate-square&logo=node.js&logoColor=white">
+        </a>
+        <!-- Express Js -->
+        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Express Js"
+                        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flate-square&logo=express&logoColor=%2361DAFB">
+        </a>
+        <!-- MongoDB  -->
+        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="MongoDB"
+                        src="https://img.shields.io/badge/MongoDB-4EA94B?style=flate-square&logo=mongodb&logoColor=white">
+        </a>
         <!-- JWT  -->
         <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Jwt"
                         src="https://img.shields.io/badge/JWT-black?style=flate-square&logo=JSON%20web%20tokens">
@@ -107,7 +107,6 @@
         <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Yarn"
                         src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flate-square&logo=yarn&logoColor=white">
         </a>
-
 </p>
 
 <!-- Details Section-->
@@ -117,7 +116,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="My GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=saad-001&show_icons=true&count_private=true&theme=radical" />
+                src="https://github-readme-stats.vercel.app/api?username=saad-001&show_icons=true&count_private=true&theme=blue-green" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
