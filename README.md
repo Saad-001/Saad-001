@@ -41,11 +41,11 @@
         </a>
         <!-- Typescript -->
         <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Typescript"
-                        src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+                        src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
         </a> 
         <!-- c -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C"
-                        src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+                        src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
         </a>
         <!-- C++ -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
