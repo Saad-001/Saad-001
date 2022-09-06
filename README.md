@@ -123,7 +123,6 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-001&hide=php&layout=compact&theme=nightowl" />
         </p>
 </details>
-<br>
 <!-- Social Links -->
     <p align="center">
         <p align="center">Find me on</p>
