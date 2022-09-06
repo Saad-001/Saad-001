@@ -121,9 +121,6 @@
         <!-- Social Links -->
 </details>
 <br>
-
-<!-- Footer -->
-<samp>
     <p align="center">Find me on</p>
         <!-- Gmail -->
         <a href="mailto:contact.me.saad01@gmail.com" target="_blank"><img alt="Gmail"
@@ -138,7 +135,8 @@
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
     </p>
-    <br>
+<!-- Footer -->
+<samp>
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
