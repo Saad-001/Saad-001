@@ -121,8 +121,9 @@
         <br>
         <img alt="Most used languages"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-001&hide=php&layout=compact&theme=nightowl" />
-        </p>
+    </p>
 </details>
+<br>
 <!-- Social Links -->
     <p align="center">
         <p align="center">Find me on</p>
@@ -153,7 +154,8 @@
     </p>
 </samp>
 
-<!-- Pinned Repositories
+<!-- Pinned Repositories -->
+
 #### Pinned
 
 <p align="center">
@@ -174,4 +176,4 @@
 <a href="https://github.com/shahriarshafin/Iot-car-controller">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controller&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
-</p> -->
+</p>
