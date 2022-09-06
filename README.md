@@ -118,23 +118,15 @@
         <img alt="My GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=saad-001&show_icons=true&count_private=true&theme=nightowl" />
         <br>
+        </p>
 </details>
 <br>
 <!-- Social Links -->
-    <!-- <p align="center">
-     <br>
-    </p> -->
-<!-- Footer -->
-<samp>
     <p align="center">
-        ════ ⋆★⋆ ════
+        <p>Find me on</p>
         <br>
-        "Happy Coding👨‍💻!"
-    </p>
-    <br>
-        <p align="center">Find me on</p>
-        <!-- Gmail -->
-        <samp align="center">
+        <p>
+                <!-- Gmail --> 
                 <a href="mailto:contact.me.saad01@gmail.com" target="_blank"><img alt="Gmail"
                         src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
                 </a>
@@ -146,7 +138,15 @@
                 <a href="https://www.linkedin.com/in/md-sa-ad-a88843210/" target="_blank"><img alt="Linkedin"
                         src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
                 </a>
-        </samp>
+        </p>
+    </p>
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
 </samp>
 
 <!-- Pinned Repositories
