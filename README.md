@@ -120,7 +120,7 @@
         <br>
         <br>
         <img alt="Most used languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-001&hide=php&layout=compact" />
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-001&hide=php&layout=compact&theme=nightowl" />
         </p>
 </details>
 <br>
