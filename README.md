@@ -118,8 +118,9 @@
         <img alt="My GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=saad-001&show_icons=true&count_private=true&theme=nightowl" />
         <br>
+        <br>
         <img alt="Most used languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-001&layout=compact"/>
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-001&hide=php&layout=compact" />
         </p>
 </details>
 <br>
