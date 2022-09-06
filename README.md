@@ -122,7 +122,8 @@
 <br>
 <!-- Social Links -->
     <p align="center">
-        <p>Find me on</p>
+     <br>
+        <p align="center">Find me on</p>
         <!-- Gmail -->
         <a href="mailto:contact.me.saad01@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
