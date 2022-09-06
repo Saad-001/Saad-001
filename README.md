@@ -119,7 +119,12 @@
                 src="https://github-readme-stats.vercel.app/api?username=saad-001&show_icons=true&count_private=true&theme=nightowl" />
         <br>
         <!-- Social Links -->
-        <p>Find me on</p>
+</details>
+<br>
+
+<!-- Footer -->
+<samp>
+    <p align="center">Find me on</p>
         <!-- Gmail -->
         <a href="mailto:contact.me.saad01@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -133,11 +138,6 @@
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
     </p>
-</details>
-<br>
-
-<!-- Footer -->
-<samp>
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
