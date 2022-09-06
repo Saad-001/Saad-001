@@ -121,8 +121,17 @@
 </details>
 <br>
 <!-- Social Links -->
-    <p align="center">
+    <!-- <p align="center">
      <br>
+    </p> -->
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+    <br>
         <p align="center">Find me on</p>
         <!-- Gmail -->
         <samp align="center">
@@ -138,14 +147,6 @@
                         src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
                 </a>
         </samp>
-    </p>
-<!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding👨‍💻!"
-    </p>
 </samp>
 
 <!-- Pinned Repositories
