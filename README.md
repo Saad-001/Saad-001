@@ -8,7 +8,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://saad-001.github.io/digital-resume/">Sa'ad</a></b>
+                <b><a target="_blank" href="https://dev-saad.netlify.app/">Sa'ad</a></b>
         </samp>
 </h3>
 <br>
