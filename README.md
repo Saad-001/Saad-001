@@ -8,7 +8,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://dev-saad.netlify.app/">Sa'ad</a></b>
+                <b><a target="_blank" href="https://md-saad.netlify.app/">Sa'ad</a></b>
         </samp>
 </h3>
 <br>
@@ -134,7 +134,7 @@
                                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
                         </a>
                         <!-- Facebook -->
-                        <a href="https://www.facebook.com/profile.saad.dev/" target="_blank"><img alt="Facebook"
+                        <a href="https://www.facebook.com/profile.md.saad/" target="_blank"><img alt="Facebook"
                                 src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
                         </a>
                         <!-- Linkedin -->
