@@ -160,8 +160,8 @@
 
 <!-- Pinned Repositories -->
 
-#### Pinned
-
+<!-- #### Pinned -->
+<!--
 <p align="center">
         <a href="https://github.com/Saad-001/hotel-room-booking-app-frontend">
         <img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=saad-001&repo=hotel-room-booking-app-frontend&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
@@ -193,4 +193,4 @@
         <a href="https://github.com/saad-001/Evernet-Internet">
         <img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=saad-001&repo=Evernet-Internet&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
         </a>
-</p>
+</p> -->
