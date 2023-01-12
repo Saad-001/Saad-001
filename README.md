@@ -114,11 +114,11 @@
 </p>
 
 <!-- Details Section-->
-<details align="center">
+<!-- <details align="center">
     <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
         <br>
-        <!-- Activity Widget -->
+        //Activity Widget
         <img alt="My GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=saad-001&show_icons=true&count_private=true&theme=nightowl" />
         <br>
@@ -126,7 +126,7 @@
         <img alt="Most used languages"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-001&hide=php&layout=compact&theme=nightowl" />
     </p>
-</details>
+</details> -->
 <br>
 <!-- Social Links -->
     <p align="center">
