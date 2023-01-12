@@ -59,6 +59,10 @@
         <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Typescript"
                         src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
         </a>
+        <!-- Python -->
+        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/python-%23007ACC.svg?style=flat-square&logo=python&logoColor=white">
+        </a>
         <!-- c -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C"
                         src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
