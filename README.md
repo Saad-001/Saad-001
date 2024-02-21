@@ -1,8 +1,8 @@
 ![Github Banner](assets/images/github-banner.png)
 
-## Hi there <img src="assets/images/hello.gif" width="28px" alt="hi">
+## Hi there my friend <img src="assets/images/hello.gif" width="28px" alt="hi">
 
-I'm Sa'ad, a passionate Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I Spend most of time developing attractive, good looking and user friendly web applications or learning new technologies.
+I'm Sa'ad, a passionate Web Application Developer from <img src="assets/images/bangladesh.png" width="18"/> Bangladesh. I Spend most of time developing attractive, good looking and user friendly web applications or learning new technologies.
 
 :coffee: &emsp;Connect with me!
 
