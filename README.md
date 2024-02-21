@@ -1,196 +1,62 @@
-<!-- https://md-saad.netlify.app/ -->
-<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
+![Github Banner](assets/images/github-banner.png)
 
-<!-- Profile Views Counter -->
+## Hi there my gorgeous friend <img src="assets/images/hello.gif" width="28px" alt="hi">
 
-![Profile views](https://gpvc.arturio.dev/Saad-001)
+I'm Sa'ad, a passionate Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I Spend most of time developing attractive, good looking and user friendly web applications or learning new technologies.
 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://md-saad.netlify.app/">Sa'ad</a></b>
-        </samp>
-</h3>
-<br>
+:coffee: &emsp;Connect with me!
 
-<p align="center">
-        <!-- Organisation  -->
-        <samp>
-                「 I'm a web developer 」
-                <br>
-                「 I love expressing my thoughts through code.</b> 」
-                <br>
-                <br>
-        </samp>
-        <!-- Programming Languages -->
-        <!-- Code logo -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Code"
-                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
-        </a>
-        <!-- HTML -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="HTML"
-                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-        </a>
-        <!-- CSS  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="CSS"
-                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-        </a>
-        <!-- SCSS  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="SCSS"
-                        src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
-        </a>
-        <!-- Bootstrap  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Botstrap"
-                        src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white">
-        </a>
-        <!-- Tailwind  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Tailwind"
-                        src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
-        </a>
-        <!-- Material UI -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Material UI"
-                        src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white">
-        </a>
-        <!-- JavaScript -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-        </a>
-        <!-- Typescript -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Typescript"
-                        src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
-        </a>
-        <!-- Python -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/python-%23007ACC.svg?style=flat-square&logo=python&logoColor=white">
-        </a>
-        <!-- c -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C"
-                        src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white">
-        </a>
-        <!-- C++ -->
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
-                        src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
-        </a>
-        <!-- REACT  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-        </a>
-        <!-- Redux  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Redux"
-                        src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white">
-        </a>
-        <!-- React quary  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="React quary"
-                        src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white">
-        </a>
-        <!-- Next js  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Next Js"
-                        src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white">
-        </a>
-                <!-- Node Js -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Node Js"
-                        src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white">
-        </a>
-        <!-- Express Js -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Express Js"
-                        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB">
-        </a>
-        <!-- MongoDB  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="MongoDB"
-                        src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
-        </a>
-        <!-- JWT  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Jwt"
-                        src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens">
-        </a>
-        <!-- NPM  -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="NPM"
-                        src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white">
-        </a>
-        <!-- Yarn -->
-        <a href="https://github.com/Saad-001?tab=repositories" target="_blank"><img alt="Yarn"
-                        src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white">
-        </a>
-</p>
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.md.saad) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsaad-dev/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdsa_ad) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.mdsaad@gmail.com)
 
-<!-- Details Section-->
-<!-- <details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-        //Activity Widget
-        <img alt="My GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=saad-001&show_icons=true&count_private=true&theme=nightowl" />
-        <br>
-        <br>
-        <img alt="Most used languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-001&hide=php&layout=compact&theme=nightowl" />
-    </p>
-</details> -->
-<br>
-<!-- Social Links -->
-    <p align="center">
-        <p align="center">Find me on</p>
-        <samp align="center">
-                <p>
-                        <!-- Gmail --> 
-                        <a href="mailto:contact.mdsaad@gmail.com" target="_blank"><img alt="Gmail"
-                                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-                        </a>
-                        <!-- Facebook -->
-                        <a href="https://www.facebook.com/profile.md.saad/" target="_blank"><img alt="Facebook"
-                                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
-                        </a>
-                        <!-- Linkedin -->
-                        <a href="https://www.linkedin.com/in/mdsaad-dev/" target="_blank"><img alt="Linkedin"
-                                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-                        </a>
-                </p>
-        </samp>
-    </p>
+:hearts: &emsp;I enjoy coding and learning new technologies everyday. Each line of code is a step forward in my journey of endless discovery! <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+:e-mail: &emsp;How to reach me: contact.mdsaad@gmail.com.<br/>
+⚡ &emsp;Fun fact: Madrasah graduate turned coding enthusiast.
 
-<!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding👨‍💻!"
-    </p>
-</samp>
+#### Things I code with
 
-<!-- Pinned Repositories -->
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
-<!-- #### Pinned -->
-<!--
-<p align="center">
-        <a href="https://github.com/Saad-001/hotel-room-booking-app-frontend">
-        <img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=saad-001&repo=hotel-room-booking-app-frontend&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-        </a>
-        <span>&nbsp;</span>
-        <a href="https://github.com/Saad-001/hotel-room-booking-app-backend">
-        <img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=saad-001&repo=hotel-room-booking-app-backend&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-        </a>
-</p>
-<p align="center">
-        <a href="https://github.com/saad-001/MachBazaar">
-        <img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=saad-001&repo=MachBazaar&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-        </a>
-        <span>&nbsp;</span>
-        <a href="https://github.com/Saad-001/VipDokan">
-        <img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=saad-001&repo=VipDokan&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-        </a>
-</p>
-<p align="center">
-        <a href="https://github.com/saad-001/Ultra-net-client-side">
-        <img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=saad-001&repo=Ultra-net-client-side&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-        </a>
-        <span>&nbsp;</span>
-        <a href="https://github.com/saad-001/Ultra-net-server-side">
-        <img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=saad-001&repo=Ultra-net-server-side&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-        </a>
-</p>
-<p align="center">
-        <a href="https://github.com/saad-001/Evernet-Internet">
-        <img width='48%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=saad-001&repo=Evernet-Internet&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-        </a>
-</p> -->
+### My Projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://microfinance-app.vercel.app/" target="_blank">Microfinance Web App</a></td>
+      <td>This web application, the Microfinance Portal, is a digital platform designed to foster economic empowerment and alleviate poverty by providing financial services to underserved communities. The system provides an easy way to access microloans and business support.</td>
+    </tr>
+    <!-- <tr>
+      <td><a href="" target="_blank"></a></td>
+      <td></td>
+    </tr> -->
+  </tbody>
+</table>
+
+<!-- #### Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=learnwithsumit.learnwithsumit) -->
+
+<details>
+<summary>
+  You wanna know more about me?
+</summary>
+
+<br >
+
+Mastering programming and coding well has always been a challenge, especially for those hailing from a different background. And I eagerly embraced this challenge! Graduating from Hathazari Madrasah in 2018 was the beginning of my journey into programming languages and web development technologies. Now, It's been nearly four years since I started this journey, and I've consistently strived toward my goal of becoming a proficient web developer, conquering milestones one after another along the way. Thus, I'm acquiring proficiency in the JavaScript ecosystem, and my enthusiasm for it knows no bounds.
+
+#### How I Code?
+
+My coding approach revolves around breaking down tasks into smaller, manageable pieces. I prioritize adhering to the DRY principle, ensuring code efficiency, and making frequent commits. Additionally, I emphasize commenting where necessary and strive to align with community best practices.
+
+<!-- #### Github Stats
+
+![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=Saad-001&count_private=true&theme=tokyonight&hide=contribs,prs) -->
+
+</details>
