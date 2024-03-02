@@ -31,10 +31,6 @@ I'm Sa'ad, a passionate Web Application Developer from <img src="assets/images/b
       <td><a href="https://microfinance-app.vercel.app/" target="_blank">Microfinance App</a></td>
       <td>This web application, the Microfinance Portal, is a digital platform designed to foster economic empowerment and alleviate poverty by providing financial services to underserved communities. The system provides an easy way to access microloans and business support.</td>
     </tr>
-    <!-- <tr>
-      <td><a href="" target="_blank"></a></td>
-      <td></td>
-    </tr> -->
   </tbody>
 </table> -->
 
